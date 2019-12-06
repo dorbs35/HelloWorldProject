@@ -16,7 +16,7 @@ namespace HelloWorld
             Console.WriteLine("Copyright: Ofer & Dor");
             /* FeatureA end */
 
-            Console.ReadKey();1
+            Console.ReadKey();
         }
     }
 }
