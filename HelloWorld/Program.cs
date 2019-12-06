@@ -12,7 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Copyright: Ofer & Dor");
-            Console.ReadKey()
+            Console.ReadKey();
         }
     }
 }
